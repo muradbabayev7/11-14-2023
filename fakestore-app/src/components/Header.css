@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+    background: rgb(0, 145, 255);
+    color: white;
+}
+.header__left {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+h2 {
+    font-weight: 500;
+}
